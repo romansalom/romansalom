@@ -1,6 +1,6 @@
 ## ¡Hola, soy roman 👋
 
-Soy un apasionado Full Stack Developer con una sólida formación en desarrollo web. Me gradué de los programas de desarrollo Full Stack en Henry y CoderHouse, donde adquirí habilidades valiosas y conocimientos técnicos que me permiten crear aplicaciones web de alto rendimiento.
+Soy un apasionado Full Stack Developer con una sólida formación en desarrollo web.Invertí en mis estudios en bootcamps de desarrollo full stack , donde adquirí habilidades valiosas y conocimientos técnicos que me permiten crear aplicaciones web de alto rendimiento.
 
 🚀 Mi enfoque principal actual es el desarrollo Front-End, y me encanta trabajar con tecnologías modernas para crear interfaces de usuario atractivas y funcionales. Mis herramientas preferidas incluyen:
 
